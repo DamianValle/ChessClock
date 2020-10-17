@@ -1,6 +1,6 @@
-<img src="/img/banner.png" width="410"/>
-
 # Chess Clock - Chess Timer
+
+<img src="/img/banner.png" width="410"/>
 
 This chess app has been designed in [Android Studio](https://developer.android.com/studio) using Java, it can also be used for other games like Go or Scrabble.
 
